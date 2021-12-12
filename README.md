@@ -16,7 +16,7 @@ Quick setup to Heroku and Replit:
 
 [![Run on Repl.it](https://repl.it/badge/github/Cookieduck-Dev/unblockcookieduck)](https://repl.it/github/Cookieduck-Dev/unblockcookieduck)
 
-> Note for Heroku: If you want to edit the main python file on Heroku, edit mainforheroku.py instead. Everything other platform should be using main.py
+> Note for Heroku: If you want to edit the main python file on Heroku, edit mainforheroku.py instead. Every other platform should be using main.py
 
 ## Have a server?
 > Ensure Python 3.8+ is installed (older versions not tested, but may work)
