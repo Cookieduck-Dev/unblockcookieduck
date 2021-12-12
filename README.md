@@ -1,20 +1,20 @@
 # UnblockCookieduck
 
-##Want to contribute to unblocking site cookieduck.com! 
+## Want to contribute to unblocking site cookieduck.com! 
 
 Well, now you could!
 
-###How?
+###### How?
 
 Running this script runs a server that will mirror the official cookieduduck.com, making it possible for Cookieduck to be accessible using your server's IP.
 Later, your server's IP address can be forwarded to a domain and can be accessed from that domain.
 
-###Don't have a server?
+###### Don't have a server?
 Quick setup to Heroku and Replit:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 [![Run on Repl.it](https://repl.it/badge/github/Cookieduck-Dev/unblockcookieduck)](https://repl.it/github/Cookieduck-Dev/unblockcookieduck)
 
-###Have a server?
+###### Have a server?
 > Ensure Python 3.8+ is installed (older versions not tested, but may work)
 
 1. Clone repository
@@ -43,7 +43,7 @@ python3 main.py
 ```
 
 
-###Setup a domain for your server
+###### Setup a domain for your server
 > Note: Server is running on port 80 by default (can be configured in main.py)
 >These steps are not needed for Heroku and Replit because they come with domains
 
