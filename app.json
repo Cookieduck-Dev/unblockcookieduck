@@ -3,7 +3,8 @@
   "description": "A tool used to unblock cookieduck.com",
   "repository": "https://github.com/Cookieduck-Dev/unblockcookieduck",
   "logo": "https://cookieduck.com/logo.png",
-  "start": "sh deploy.sh"
+  "start": "sh deploy.sh",
   "keywords": ["shell", "sh", "python"]
+  
 
 }
