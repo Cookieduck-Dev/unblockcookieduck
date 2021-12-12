@@ -1,1 +1,1 @@
-worker: python nain.py 
+web: python nain.py 
