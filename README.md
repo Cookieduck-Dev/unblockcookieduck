@@ -1,6 +1,6 @@
 # UnblockCookieduck
 
-## Want to contribute to unblocking site cookieduck.com! 
+## Want to contribute to unblocking site cookieduck.com?
 
 Well, now you could!
 
