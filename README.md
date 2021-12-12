@@ -60,7 +60,7 @@ Cloudflare has instructions to setting up
 2. Point domain to server
 Create an "A" record on your domain and point it to your server's IP address
 
-###And that's it!
+## And that's it!
 Your server should be up and running, displaying a page of Cookieduck's when accessed with the domain or IP.
 
 Have any issues? Open a issue dirrectly on Github.
