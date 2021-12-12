@@ -1,1 +1,2 @@
 git+https://github.com/Cookieduck-Dev/cdub
+requests>=2.26.0
