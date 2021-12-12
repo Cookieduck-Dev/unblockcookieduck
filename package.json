@@ -1,0 +1,17 @@
+{
+  "name": "unblockcookieduck",
+  "version": "0.1.2",
+  "description": "Tool used to unblocksite cookieduck.com",
+  "scripts": {
+  "start": "sh deploy.sh"
+},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Cookieduck-Dev/unblockcookieduck"
+},
+  "author": "https://github.com/Cookieduck-Dev/unblockcookieduck",
+  "bugs": {
+  "url": "https://github.com/Cookieduck-Dev/unblockcookieduck/issues"
+},
+  "homepage": "https://github.com/Cookieduck-Dev/unblockcookieduck"
+}
