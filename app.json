@@ -4,5 +4,6 @@
   "repository": "https://github.com/Cookieduck-Dev/unblockcookieduck",
   "logo": "https://cookieduck.com/logo.png",
   "start": "sh deploy.sh"
+  "keywords": ["shell", "sh", "python"]
 
 }
